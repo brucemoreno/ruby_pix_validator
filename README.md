@@ -1,2 +1,4 @@
-# ruby_pix_validator
-Object that validate pix_key as email, phone, CNPJ, etc
+This is a challenge made by Husky-Academy that uses Ruby. I made it from a scratch with the small experience that I have.
+Still looking for improvement.
+
+:)
